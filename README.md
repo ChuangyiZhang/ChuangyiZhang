@@ -1,1 +1,1 @@
-[![Chuangyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuangyi)]
+![Chuangyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuangyi)
